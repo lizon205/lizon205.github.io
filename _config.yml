@@ -4,6 +4,7 @@ email: lizon205@gmail.com
 description: > # this means to ignore newlines until "show_exerpts:"
   갑술년 태생 코딩 신생아
 show_excerpts: true # set to true to show excerpts on the homepage
+url: "https://github.com/lizon205/lizon205.github.io.git"
 
 # Minima date format
 # refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
