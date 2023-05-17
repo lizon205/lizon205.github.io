@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "출발!"
+date:   $current_year
+categories: jekyll update
+---
+금일 첫 출근 
+![Alt text](assets/싱하.jpg)
