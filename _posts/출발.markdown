@@ -1,9 +1,0 @@
----
-layout: post
-title:  "출발!"
-date:   2023-05-17 22:22:11 +0900
-categories: practice
----
-금일 첫 출근.
-
-![Alt text](assets/싱하.jpg)

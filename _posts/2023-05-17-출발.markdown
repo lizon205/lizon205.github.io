@@ -6,4 +6,4 @@ categories: practice
 ---
 금일 첫 출근.
 
-![Alt text](assets/싱하.jpg)
+![싱하](/assets/싱하.jpg)
