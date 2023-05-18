@@ -10,4 +10,4 @@ categories: practice
 
 바다에서 물장구만 친다.
 
-![복잡함](/assets/2아쉬움 2후련.jpg)
+![복잡함](/assets/2아쉬움,2후련.jpg)
